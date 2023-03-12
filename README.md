@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AI-Apocalypse-06
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning FRONT-eND
+- 🌱 I’m currently learning FRONT-END
 - 💞️ I’m looking to collaborate on helping Front-End learners
 - 📫 How to reach me Abdurakhmon.ibragimov.006@gmail.com
 
